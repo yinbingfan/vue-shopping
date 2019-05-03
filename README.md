@@ -1,4 +1,4 @@
-# yg-mall-nuxt
+# vue-shopping
 
 > My splendid Nuxt.js project
 

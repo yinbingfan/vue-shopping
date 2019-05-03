@@ -6,7 +6,7 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: '采购云平台',
+    title: 'vue-shopping',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -70,7 +70,6 @@ export default {
     // "/api/market": {
     //   // target: "http://47.102.127.137:81", // 测试接口的域名
     //   // target: "http://192.168.0.220:90", // 测试接口的域名
-    //   target: "http://192.168.0.188:55412", // 耀辉接口的域名
     //   pathRewrite: {
     //     "^/api/market": "/market"
     //   }
