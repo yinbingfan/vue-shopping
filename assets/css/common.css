@@ -1,0 +1,9 @@
+.el-tabs__content{
+  display: none!important;
+}
+.approvalStatus-company{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
